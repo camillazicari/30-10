@@ -31,3 +31,15 @@ main{
 figcaption{
     color: #999999;
 }
+
+#sezione{
+    border-left: solid #FFD777;
+}
+
+#colore{
+    color: #B5460F;
+}
+
+#colorelink{
+    color: #107777;
+}
