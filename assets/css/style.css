@@ -24,6 +24,7 @@ main section:first-child h1 {
   color: #004d4b;
   background-color: #fdfbf1;
   border-top: solid #ffd777;
+  padding: 10px;
 }
 
 #sfondo p {
