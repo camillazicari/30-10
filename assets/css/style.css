@@ -1,6 +1,7 @@
 html,
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: normal;
   text-align: center;
 }
 
@@ -9,9 +10,8 @@ img {
   margin-bottom: 1em;
 }
 
-
 #sfondo {
-    color: #004D4B;
+  color: #004d4b;
   background-color: #fdfbf1;
   border-top: solid #ffd777;
 }
@@ -20,26 +20,30 @@ img {
   text-align: center;
 }
 
-main{
-    margin-top: 10vh;
+main {
+  margin-top: 10vh;
 }
 
-#secondaImg{
-    width: 50%;
+#secondaImg {
+  width: 50%;
 }
 
-figcaption{
-    color: #999999;
+figcaption {
+  color: #999999;
 }
 
-#sezione{
-    border-left: solid #FFD777;
+#sezione {
+  border-left: solid #ffd777;
 }
 
-#colore{
-    color: #B5460F;
+#colore {
+  color: #b5460f;
 }
 
-#colorelink{
-    color: #107777;
+#colorelink {
+  color: #107777;
+}
+
+#divisore{
+    border-color: #C3F3F1;
 }
