@@ -4,6 +4,7 @@ body {
 }
 
 img {
-  width: 50vw;
-  margin: 0 auto;
+  width: 20vw;
+  display: flex;
+  align-items: center;
 }
