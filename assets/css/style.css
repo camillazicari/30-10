@@ -3,7 +3,7 @@ body {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
-#container{
+#container, footer{
     width: 50vw;
     margin: 0 auto;
 }
@@ -35,7 +35,7 @@ main {
 }
 
 #secondaImg {
-  width: 50%;
+  width: 100%;
 }
 
 figcaption {
