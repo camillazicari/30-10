@@ -6,4 +6,16 @@ body {
 
 img {
   width: 20vw;
+  margin-bottom: 1em;
+}
+
+
+#sfondo {
+    color: #004D4B;
+  background-color: #fdfbf1;
+  border-top: solid #ffd777;
+}
+
+#sfondo p {
+  text-align: center;
 }
